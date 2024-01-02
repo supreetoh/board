@@ -1,0 +1,14 @@
+.board {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+@media (max-width: 768px) {
+  .board {
+    flex-direction: column;
+  }
+}
+
+/* Add more styles to position your columns and cards */

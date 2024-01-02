@@ -1,0 +1,15 @@
+.card {
+  background-color: #fff;
+  border: 1px solid #e1e1e1;
+  border-radius: 4px;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.card p {
+  font-size: 1em;
+  color: #333;
+}
+
+/* Style the card title, description, and any buttons or labels */
